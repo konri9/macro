@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1436769706 source:c:\users\konrad\documents\codeblocks projects\macrobiotica\inventario.cpp
+	"Inventario.h"
+	<sstream>
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1436771133 c:\users\konrad\documents\codeblocks projects\macrobiotica\inventario.h
+	<vector>
+	<iostream>
+	<stdlib.h>
+	"Parse.h"
+
+1436767849 c:\users\konrad\documents\codeblocks projects\macrobiotica\parse.h
+	<string>
+
+1436768691 source:c:\users\konrad\documents\codeblocks projects\macrobiotica\main.cpp
+	<iostream>
+	"Parse.h"
+	"Inventario.h"
+
+1436770844 source:c:\users\konrad\documents\codeblocks projects\macrobiotica\parse.cpp
+	"Parse.h"
+	<iostream>
+	<stdlib.h>
+
